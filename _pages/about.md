@@ -1,12 +1,137 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Desarrolla software de aplicación con programación estructurada"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+MÓDULO I
+
+ 
+
+DESARROLLA SOFTWARE DE APLICACIÓN CON PROGRAMACIÓN ESTRUCTURADA.
+
+
+
+     INTENCIÓN  FORMATIVA
+
+
+            Que el alumno adquiera los conocimientos  que  le  permitan resolver problemas utilizando un algoritmos, Diagramas de Flujo, Pseudocódigos y un lenguaje de                           Programación Estructurado. 
+
+            El  estudiante solucionará problemas mediante el desarrollo software utilizando un Lenguaje de programación estructurado, con el empleo ético y responsable de diversas          herramientas informáticas, mostrando cooperación, respeto, interés y creatividad.
+
+  
+
+El Módulo Se compone de 3 Submódulos:
+
+
+
+Submódulo 1  Construye algoritmos para la solución de problemas.  
+
+Submódulo 2  Aplica estructuras de control con un Lenguaje de Programación.  
+
+Submódulo 3  Aplica estructuras de datos con un Lenguaje de Programación. 
+
+
+ 
+
+ PROGRAMA DE ESTUDIO.
+
+ 
+
+Competencias Profesionales. 
+
+1.       Desarrolla la solución de un Problema.
+
+2.       Realiza Pseudocódigo.
+
+3.       Reconoce las características de un lenguaje de programación estructurado.
+
+4.       Desarrolla código en un lenguaje de programación estructurado.
+
+5.       Reconoce estructuras de datos.
+
+  6.   Desarrolla una aplicación.
+
+ 
+
+ Competencias Genéricas. 
+
+4.5 Maneja las tecnologías de la información y la comunicación para
+
+       obtener información y expresar ideas.
+
+5.1 Sigue instrucciones y procedimientos de manera reflexiva,     
+
+      comprendiendo como cada uno de sus pasos contribuye al
+
+      alcance de un objetivo.
+
+  8.1 Propone la manera de solucionar un problema o desarrollar un
+
+       proyecto en equipo, definiendo un curso de acción con pasos
+
+       específicos.
+
+ 
+
+ 
+
+Competencias Disciplinares Básicas.
+
+ 
+
+12.- Utiliza las tecnologías de la información y comunicación para
+
+       investigar, resolver problemas, producir materiales y transmitir
+
+       información.
+
+ 
+
+ 
+
+ CONTENIDO DEL CURSO
+
+ 
+
+UNIDAD I   Construye algoritmos para la solución de problemas.
+
+ 1.1 Conceptos generales para la solución de Problemas.   
+
+ 1.2 Solución de Problemas por medio de algoritmos.
+
+ 1.3 Solución de Problemas por medio de Diagramas de -
+
+        flujo.
+
+1.4 Solución de Problemas por medio de Pseudocódigos.
+
+ 
+
+UNIDAD II  Aplica estructuras de control con un Lenguaje
+
+de Programación.
+
+    2.1 Reconoce las características de un lenguaje de
+
+            programación estructurado.
+
+    2.2 Desarrolla código en un lenguaje de programación
+
+            estructurado.
+
+  
+
+UNIDAD III  Aplica estructuras de datos con un Lenguaje de Programación.
+
+    3.1 Reconoce estructuras de datos.
+
+    3.2 Desarrolla una aplicación.
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
