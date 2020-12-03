@@ -19,6 +19,7 @@ author_profile: true
 
 ## En esta sección se establecen los acuerdos y compromisos durante el desarrollo del presente curso, considerando lo siguiente:
   * Mapa de competencias profesionales de la carrera de Técnico en Programación.
+  <img src="../images/mapa_competencias.png">
   * Resultados de aprendizaje.
   * Planeación del curso (submódulo).
   * Establecer acuerdos y compromisos.
