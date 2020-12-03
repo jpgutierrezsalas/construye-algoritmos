@@ -4,7 +4,7 @@ title: "Encuadre del Curso"
 permalink: /publications/
 author_profile: true
 ---
-
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -14,12 +14,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+-->
 
 
 ## En esta sección se establecen los acuerdos y compromisos durante el desarrollo del presente curso, considerando lo siguiente:
   * Mapa de competencias profesionales de la carrera de Técnico en Programación.
-  <img src="../images/mapa_competencias.png">
+    <img src="../images/mapa_competencias.png" alt="Mapa de competencias profesionales de la carrera de Técnico en Programación." width="80%" height="80%">
   * Resultados de aprendizaje.
   * Planeación del curso (submódulo).
   * Establecer acuerdos y compromisos.
