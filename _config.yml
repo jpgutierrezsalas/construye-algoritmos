@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "es-MX"
-title                    : "Módulo 1 - Progamación"
+title                    : "Módulo 1 - Programación"
 title_separator          : "-"
 name                     : &name "Submódulo 1"
 description              : &description "Construye algoritmos para la solución de problemas"
