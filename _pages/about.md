@@ -8,33 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-MÓDULO I
+INTENCIÓN  FORMATIVA
 
- 
-
-DESARROLLA SOFTWARE DE APLICACIÓN CON PROGRAMACIÓN ESTRUCTURADA.
-
-
-
-     INTENCIÓN  FORMATIVA
-
-
-            Que el alumno adquiera los conocimientos  que  le  permitan resolver problemas utilizando un algoritmos, Diagramas de Flujo, Pseudocódigos y un lenguaje de                           Programación Estructurado. 
-
-            El  estudiante solucionará problemas mediante el desarrollo software utilizando un Lenguaje de programación estructurado, con el empleo ético y responsable de diversas          herramientas informáticas, mostrando cooperación, respeto, interés y creatividad.
+Que el alumno adquiera los conocimientos  que  le  permitan resolver problemas utilizando un algoritmos, Diagramas de Flujo, Pseudocódigos y un lenguaje de Programación Estructurado. 
+El  estudiante solucionará problemas mediante el desarrollo software utilizando un Lenguaje de programación estructurado, con el empleo ético y responsable de diversas herramientas informáticas, mostrando cooperación, respeto, interés y creatividad.
 
   
 
 El Módulo Se compone de 3 Submódulos:
-
-
-
-Submódulo 1  Construye algoritmos para la solución de problemas.  
-
-Submódulo 2  Aplica estructuras de control con un Lenguaje de Programación.  
-
-Submódulo 3  Aplica estructuras de datos con un Lenguaje de Programación. 
-
+<ul>
+  <li>Submódulo 1  Construye algoritmos para la solución de problemas.</li>  
+  <li>Submódulo 2  Aplica estructuras de control con un Lenguaje de Programación.</li>   
+  <li>Submódulo 3  Aplica estructuras de datos con un Lenguaje de Programación.</li>  
+</ul>
 
  
 
