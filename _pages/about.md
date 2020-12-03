@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Desarrolla software de aplicación con programación estructurada"
+title: "Módulo 1 <br>Desarrolla software de aplicación con programación estructurada"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
