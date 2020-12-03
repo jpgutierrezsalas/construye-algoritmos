@@ -10,12 +10,12 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+-->
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
--->
+
 
 ## En esta sección se establecen los acuerdos y compromisos durante el desarrollo del presente curso, considerando lo siguiente:
   * Mapa de competencias profesionales de la carrera de Técnico en Programación.
