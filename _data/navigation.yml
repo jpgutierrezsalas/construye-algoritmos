@@ -3,16 +3,16 @@ main:
   - title: "Encuadre del Curso"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Submódulo 1"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Submódulo 2"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Submódulo 3"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Formatos"
     url: /year-archive/
     
   - title: "CV"
